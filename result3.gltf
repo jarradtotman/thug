@@ -1,0 +1,363 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.cf7d3637)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_volume",
+        "KHR_materials_ior",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 16038,
+            "type": "VEC3",
+            "max": [
+                4.3626298904418949,
+                7.913421154022217,
+                9.661935806274414
+            ],
+            "min": [
+                -4.3626298904418949,
+                -2.1993300914764406,
+                -14.488441467285157
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 16038,
+            "type": "VEC2",
+            "max": [
+                0.9993569850921631,
+                3.0
+            ],
+            "min": [
+                0.001306000049225986,
+                2.001168966293335
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 16038,
+            "type": "SCALAR",
+            "max": [
+                16037
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3744,
+            "type": "VEC3",
+            "max": [
+                1.1075960397720338,
+                1.463088035583496,
+                8.250190734863282
+            ],
+            "min": [
+                -1.0039819478988648,
+                0.8811060190200806,
+                6.765535831451416
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3744,
+            "type": "VEC2",
+            "max": [
+                0.9972699880599976,
+                3.0005099773406984
+            ],
+            "min": [
+                0.0004990000161342323,
+                2.0033349990844728
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 3744,
+            "type": "SCALAR",
+            "max": [
+                3743
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1728,
+            "type": "VEC3",
+            "max": [
+                1.2896239757537842,
+                2.5038681030273439,
+                7.865724086761475
+            ],
+            "min": [
+                -1.289654016494751,
+                2.1681699752807619,
+                7.536252021789551
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1728,
+            "type": "VEC2",
+            "max": [
+                0.9963510036468506,
+                2.998853921890259
+            ],
+            "min": [
+                -0.036166999489068988,
+                2.0033040046691896
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 1728,
+            "type": "SCALAR",
+            "max": [
+                1727
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 516240,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 192456,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 192456,
+            "byteLength": 128304,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 320760,
+            "byteLength": 64152,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 384912,
+            "byteLength": 44928,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 429840,
+            "byteLength": 29952,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 459792,
+            "byteLength": 14976,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 474768,
+            "byteLength": 20736,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 495504,
+            "byteLength": 13824,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 509328,
+            "byteLength": 6912,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        },
+        {
+            "name": "_Sharkgreatwhiteshark",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        },
+        {
+            "name": "_Sharkgreatwhiteshark_teet",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        },
+        {
+            "name": "_Sharkgreatwhiteshark_eye",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "great_white_shark",
+            "primitives": [
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Teath",
+            "primitives": [
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 3,
+                        "TEXCOORD_0": 4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "eyes",
+            "primitives": [
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 8,
+                    "attributes": {
+                        "POSITION": 6,
+                        "TEXCOORD_0": 7
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "uploads_files_24982_Shark.obj",
+            "children": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "great_white_shark",
+            "mesh": 0
+        },
+        {
+            "name": "Teath",
+            "mesh": 1
+        },
+        {
+            "name": "eyes",
+            "mesh": 2
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
