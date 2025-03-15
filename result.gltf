@@ -1,0 +1,180 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.cf7d3637)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_volume",
+        "KHR_materials_ior",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2946,
+            "type": "VEC3",
+            "max": [
+                0.48549601435661318,
+                0.8503590226173401,
+                1.1698329448699952
+            ],
+            "min": [
+                -0.4604189991950989,
+                0.018389999866485597,
+                -1.2730579376220704
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2946,
+            "type": "VEC3",
+            "max": [
+                0.9988307952880859,
+                0.9997294545173645,
+                0.964230477809906
+            ],
+            "min": [
+                -0.9986737370491028,
+                -0.9983735680580139,
+                -0.999068558216095
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2946,
+            "type": "VEC2",
+            "max": [
+                0.9983100295066834,
+                0.9985020160675049
+            ],
+            "min": [
+                0.0015030000358819962,
+                0.018046975135803224
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 2946,
+            "type": "SCALAR",
+            "max": [
+                2945
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 106056,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 35352,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 35352,
+            "byteLength": 35352,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 70704,
+            "byteLength": 23568,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 94272,
+            "byteLength": 11784,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        },
+        {
+            "name": "Dolphin_Tris_Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Dolphin_Low_Poly",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "uploads_files_5014761_Dolphin_Low_Poly.obj",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Dolphin_Low_Poly",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
