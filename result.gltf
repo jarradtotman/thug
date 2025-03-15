@@ -75,7 +75,7 @@
     "buffers": [
         {
             "byteLength": 106056,
-            "uri": "result.bin"
+            "uri": "https://raw.githubusercontent.com/jarradtotman/thug/main/result.bin"
         }
     ],
     "bufferViews": [
